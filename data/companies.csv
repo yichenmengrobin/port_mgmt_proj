@@ -1,0 +1,44 @@
+ticker,company_name,country,sector,currency
+VST,Vistra Corp.,United States,Utilities,USD
+VIST,"Vista Energy, S.A.B. de C.V.",Mexico,Energy,MXN
+AEP,"American Electric Power Company, Inc.",United States,Utilities,USD
+ETR,Entergy Corporation,United States,Utilities,USD
+DIS,The Walt Disney Company,United States,Communication Services,USD
+CMG,"Chipotle Mexican Grill, Inc.",United States,Consumer Discretionary,USD
+AMZN,"Amazon.com, Inc.",United States,Consumer Discretionary,USD
+FIX,"Comfort Systems USA, Inc.",United States,Industrials,USD
+STX,Seagate Technology Holdings plc,Singapore,Technology,SGD
+VLO,Valero Energy Corporation,United States,Energy,USD
+CF,"CF Industries Holdings, Inc.",United States,Materials,USD
+NTR,Nutrien Ltd.,Canada,Materials,CAD
+LNN,Lindsay Corporation,United States,Industrials,USD
+WDC,Western Digital Corporation,United States,Technology,USD
+ASND,Ascendis Pharma A/S,Denmark,Health Care,DKK
+DOCN,"DigitalOcean Holdings, Inc.",United States,Technology,USD
+CME,CME Group Inc.,United States,Financials,USD
+NET,"Cloudflare, Inc.",United States,Technology,USD
+MRNA,"Moderna, Inc.",United States,Health Care,USD
+AXON,Axon Enterprise Inc,United States,Industrials,USD
+NFLX,"Netflix, Inc.",United States,Communication Services,USD
+CMCSA,Comcast Corp,United States,Communication Services,USD
+MU,"Micron Technology, Inc.",United States,Technology,USD
+NEM,Newmont Corporation,United States,Materials,USD
+PGR,The Progressive Corporation,United States,Financials,USD
+ORKA,"Oruka Therapeutics, Inc.",United States,Health Care,USD
+UPST,Upstart Holdings Inc.,United States,Financials,USD
+PG,The Procter & Gamble Company,United States,Consumer Staples,USD
+F,Ford Motor Company,United States,Consumer Discretionary,USD
+HPE,Hewlett Packard Enterprise Company,United States,Technology,USD
+BA,The Boeing Company,United States,Industrials,USD
+HII,"Huntington Ingalls Industries, Inc.",United States,Industrials,USD
+AMD,"Advanced Micro Devices, Inc.",United States,Technology,USD
+LLY,Eli Lilly and Company,United States,Health Care,USD
+WELL,Welltower Inc,United States,Real Estate,USD
+NOK,Nokia Oyj,Finland,Technology,EUR
+MSFT,Microsoft Corporation,United States,Technology,USD
+GOOGL,Alphabet Inc.,United States,Communication Services,USD
+COST,Costco Wholesale Corporation,United States,Consumer Staples,USD
+HD,"The Home Depot, Inc.",United States,Consumer Discretionary,USD
+KO,The Coca-Cola Company,United States,Consumer Staples,USD
+JNJ,Johnson & Johnson,United States,Health Care,USD
+BRK-B,Berkshire Hathaway Inc.,United States,Financials,USD
