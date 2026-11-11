@@ -1,0 +1,47 @@
+ticker,company_name,stock_ranking,expected_return_percent
+AEP,"American Electric Power Company, Inc.",2,8
+AMD,"Advanced Micro Devices, Inc.",1,7
+AMZN,"Amazon.com, Inc.",2,8
+ASND,Ascendis Pharma A/S,2,8
+AXON,Axon Enterprise Inc,3,9
+BA,The Boeing Company,1,7
+BRK.B,Berkshire Hathaway Inc.,2,8
+CF,"CF Industries Holdings, Inc.",1,7
+CMCSA,Comcast Corp,1,7
+CMG,"Chipotle Mexican Grill, Inc.",1,7
+COST,Costco Wholesale Corporation,2,8
+CRE,Cre8 Enterprise Limited,2,8
+DIS,The Walt Disney Company,3,9
+DOCN,"DigitalOcean Holdings, Inc.",3,9
+ETN,Eaton Corporation plc,1,7
+ETR,Entergy Corporation,2,8
+F,Ford Motor Company,2,8
+FIX,"Comfort Systems USA, Inc.",1,7
+GOOGL,Alphabet Inc.,1,7
+HD,"The Home Depot, Inc.",1,7
+HII,"Huntington Ingalls Industries, Inc.",2,8
+HPE,Hewlett Packard Enterprise Company,3,9
+JNJ,Johnson & Johnson,3,9
+KO,The Coca-Cola Company,1,7
+LLY,Eli Lilly and Company,3,9
+LNN,Lindsay Corporation,3,9
+MRVL,"Marvell Technology, Inc.",2,8
+MSFT,Microsoft Corporation,3,9
+MU,"Micron Technology, Inc.",2,8
+NEM,Newmont Corporation,2,8
+NET,"Cloudflare, Inc.",1,7
+NFLX,"Netflix, Inc.",2,8
+NOK,Nokia Oyj,1,7
+NTR,Nutrien Ltd.,2,8
+ORKA,"Oruka Therapeutics, Inc.",1,7
+PG,The Procter & Gamble Company,1,7
+PGR,The Progressive Corporation,3,9
+PLTR,Palantir Technologies Inc,3,9
+RDDT,"Reddit, Inc.",3,9
+STX,Seagate Technology Holdings plc,2,8
+VIST,"Vista Energy, S.A.B. de C.V.",2,8
+VLO,Valero Energy Corporation,2,8
+VRT,Vertiv Holdings Co,3,9
+VST,Vistra Corp.,1,7
+WDC,Western Digital Corporation,3,9
+WELL,Welltower Inc,2,8
